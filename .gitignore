@@ -1,0 +1,3 @@
+lib/glew.h
+lib/glfw3.h
+lib/libGLEW.a
